@@ -1,0 +1,21 @@
+{
+  "name": "fs-regex-task",
+  "version": "1.0.0",
+  "description": "1. Understand the basic of the file system and the regex.\r 2. Through this task, we will learn the basic of the file system and regex, and how to use them to solve problems.",
+  "main": "task.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Afaq-Ahmad-eng/fs-regex-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Afaq-Ahmad-eng/fs-regex-task/issues"
+  },
+  "homepage": "https://github.com/Afaq-Ahmad-eng/fs-regex-task#readme"
+}
